@@ -7,6 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "ejercicio1": "node ejercicio1/ejercicio1.js",
     
+    "ejercicio2": "node ejercicio2/ejercicio2.js",
+    "nomnbre1": ""
   },
   "author": "",
   "license": "ISC"
